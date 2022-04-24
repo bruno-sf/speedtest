@@ -1,5 +1,5 @@
 # Docker container version of speedtest CLI version 
-ARCH: armv7l GNU/LINUX (Raspberry Pi2/3)
+ARCH: armv7l GNU/LINUX (Raspberry Pi2/3), amd64 (2022)
 ***Not official*** Just a container from speedtest by Ookla CLI program ***Not official***
 
 If you are not using arm and got error mesage like this: standard_init_linux.go:211: exec user process caused "exec format error"
